@@ -1,6 +1,6 @@
 # SpeacTyping
 ## สเปซไทป์ปิง เป็นเกมพิมพ์สัมผัสธีมอวกาศ ผู้เล่นพิมพ์คำเพื่อทำลายอุกกาบาตจากมุมบนลงล่าง โดยต้องรักษาพลังชีวิตเพื่อผ่านด่าน มีหลายโหมด ทั้งแบบเล่นและฝึกฝน เหมาะสำหรับทุกระดับการพิมพ์ ใช้แค่คีย์บอร์ดในการเล่นเท่านั้น
-### ตัวอย่างหน้าจอระบบ "https://docs.google.com/document/d/1sr3zcO7jLpmswtiCS4iMHXiCGVnd4zCEP_2vgVwwkmc/edit?usp=sharing"
+### ตัวอย่างหน้าจอระบบ https://docs.google.com/document/d/1sr3zcO7jLpmswtiCS4iMHXiCGVnd4zCEP_2vgVwwkmc/edit?usp=sharing
 
 ### เครื่องมือที่ใช้พัฒนา
 - ภาษาไพธอน(Python Language) ใช้ในการพัฒนาตัวโปรแกรมเกมสเปซไทป์ปิง
